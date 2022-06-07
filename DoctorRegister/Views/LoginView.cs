@@ -14,6 +14,8 @@ namespace DoctorRegister.Views
     {
         public LoginView()
         {
+            /* paco beshe tuk */
+            /* code code code */
             InitializeComponent();
         }
     }
